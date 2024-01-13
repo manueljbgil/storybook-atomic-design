@@ -1,8 +1,8 @@
 {
   "name": "storybook-atomic-design",
-  "private": true,
   "version": "0.0.1",
   "type": "module",
+  "files":["dist"],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
