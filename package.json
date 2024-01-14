@@ -6,7 +6,7 @@
   "exports": {
     ".": {
       "import": "./dist/main.ts",
-      "require": "./dist/main.umd.cjs"
+      "require": "./dist/main.cjs"
     }
   },
   "files": [
