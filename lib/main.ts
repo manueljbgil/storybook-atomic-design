@@ -1,5 +1,3 @@
-import { atoms } from "../src";
+import Text from "../src/atoms/Text";
 
-export {
-    atoms
-}
+export {Text}
