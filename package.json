@@ -1,10 +1,10 @@
 {
   "name": "storybook-atomic-design",
-  "version": "6.0.6",
+  "version": "6.0.7",
   "type": "module",
   "types": "dist/main.d.ts",
-  "main":"dist/main.ts",
-  "module":"dist/main.ts",
+  "main": "dist/main.ts",
+  "module": "dist/main.ts",
   "exports": {
     ".": {
       "import": "./dist/main.ts",
