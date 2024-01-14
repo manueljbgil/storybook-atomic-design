@@ -3,14 +3,9 @@
   "version": "6.0.2",
   "type": "module",
   "types": "dist/main.d.ts",
-  "main": "./dist/main.ts",
-  "module": "./dist/main.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/main.ts",
-      "require": "./dist/main.umd.cjs"
-    }
-  },
+  "main": "dist/main.ts",
+  "module": "dist/main.ts",
+  
   "files": [
     "dist"
   ],
