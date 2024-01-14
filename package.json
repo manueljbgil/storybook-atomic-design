@@ -2,7 +2,7 @@
   "name": "storybook-atomic-design",
   "version": "6.0.0",
   "type": "module",
-  "main": "dist/main.js",
+  "main": "dist/main.ts",
   "types": "dist/main.d.ts",
   "files": [
     "dist"
