@@ -1,6 +1,6 @@
 {
   "name": "storybook-atomic-design",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "type": "module",
   "files": [
     "dist"
@@ -8,9 +8,9 @@
   "main": "dist/main.ts",
   "exports": {
     ".": {
-          "default": "./dist/main.ts"
+      "default": "./dist/main.ts"
     }
-},
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
