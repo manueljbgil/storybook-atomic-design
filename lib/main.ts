@@ -1,3 +1,3 @@
-import Text from "../src/atoms/Text";
+import Text from "./atoms/Text";
 
 export {Text}
