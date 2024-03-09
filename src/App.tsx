@@ -1,12 +1,11 @@
-import './App.css'
+import { Text } from "../"
 
-function App() {
-
-  return (
-    <>
-      
-    </>
-  )
+export const App = () => {
+    return(
+        <>
+            <Text/>
+        </>
+    )
 }
 
 export default App
